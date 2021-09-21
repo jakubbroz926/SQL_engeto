@@ -1,1 +1,1 @@
-Projekt pro Engeto akademii, který jsem zpracovával v rámci Datové akademie.
+Projekt pro Engeto s.r.o, který jsem zpracovával v rámci kurzu Datová akademie Engeto.
