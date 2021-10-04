@@ -1,1 +1,1 @@
-Projekt pro Engeto s.r.o, který jsem zpracovával v rámci kurzu Datová akademie Engeto.
+SQL script for  Engeto s.r.o, which I proccessed in the course Data academy Engeto.ltd.
